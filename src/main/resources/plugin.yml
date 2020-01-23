@@ -1,0 +1,5 @@
+name: Hub
+version: ${version}
+author: PvP Land Development Team
+main: land.pvp.hub.HubPlugin
+depend: [Core]
